@@ -1,0 +1,7219 @@
+{
+  "data": [
+    {
+      "cep": "11010280",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11013163",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11013440",
+      "cargo": "SUPERVISOR DE GATE",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11013480",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11013552",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11013580",
+      "cargo": "AUXILIAR DE CONTROLE DE EQUIPAMENTOS",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11013640",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11013670",
+      "cargo": "OPERADOR DE EQUIPAMENTOS II",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11015010",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11015020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11015020",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11015070",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11015090",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11015101",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11015101",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11015110",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11015110",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11015120",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11015120",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11015120",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11015120",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11015145",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11015170",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11015180",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11015200",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11015220",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11015230",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11015240",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11015260",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11015270",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11015270",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11015290",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11015301",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11015310",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11015310",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11015320",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11015320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11015340",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11015360",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11015450",
+      "cargo": "PLANEJADOR DE NAVIO",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11015540",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11015545",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11020000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11020000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11020000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11020002",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11020002",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11020002",
+      "cargo": "PLANEJADOR DE PATIO",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11020003",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11020003",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11020003",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11020004",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11020004",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11020110",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11020140",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11020180",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11020210",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11020270",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11020330",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11020390",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11020410",
+      "cargo": "ASSISTENTE DE MONITORAMENTO REEFER",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11025002",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11025010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11025010",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11025011",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11025011",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11025020",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11025031",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11025032",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11025065",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11025150",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11025152",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11025153",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11025153",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11025155",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11025180",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11025180",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11025201",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11025203",
+      "cargo": "ESCALADOR",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11025203",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11025230",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11025240",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11025240",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11025240",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11025240",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11025240",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11025240",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11025260",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11025260",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11030000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11030101",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11030160",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11030181",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11030320",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11030340",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11030381",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11030480",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11030540",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11030540",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11035000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11035003",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11035010",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11035010",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11035100",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11035101",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11035101",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11035101",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11035105",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11035130",
+      "cargo": "ASSISTENTE DE PLANEJAMENTO DE NAVIO",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11035130",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11035140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11035180",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11035210",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11035300",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11035300",
+      "cargo": "ASSISTENTE DE MONITORAMENTO REEFER",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11035300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11035300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11035300",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11040002",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11040010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11040020",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11040040",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11040040",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11040070",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11040070",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11040090",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11040101",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11040110",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11040111",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11040141",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11040190",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11040201",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11040220",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11040221",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11040221",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11040271",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11040271",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11040271",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11040271",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11040271",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11045000",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11045160",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11045160",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11045201",
+      "cargo": "ASSISTENTE DE PLANEJAMENTO DE NAVIO",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11045210",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11045210",
+      "cargo": "AUXILIAR DE CONTROLE DE EQUIPAMENTOS",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11045301",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11050031",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11050060",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11050060",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11050071",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11050120",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11050120",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11050201",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11050231",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11050231",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11050241",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11050250",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11050251",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11050300",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11050320",
+      "cargo": "ASSISTENTE DE PLANEJAMENTO DE NAVIO",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11055001",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11055010",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11055320",
+      "cargo": "ANALISTA DE PLANEJAMENTO OPERACIONAL PL",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11060000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11060470",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11065000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11065001",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11065003",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11065200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11065200",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL SR",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11065210",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11065220",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11065240",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11065280",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11065290",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11065300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11065620",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11065660",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11065740",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11070001",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11070001",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11070011",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11070020",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11070020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11070020",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11070021",
+      "cargo": "SUPERVISOR DE GATE",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11070051",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11070060",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11070061",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11070061",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11070061",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11070061",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11070131",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11070140",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11070150",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11070170",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11070210",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11070230",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11070320",
+      "cargo": "PLANEJADOR DE PATIO",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11070320",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11070331",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11070350",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11070370",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11070400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11070401",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11075002",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11075002",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11075265",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11075350",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11075401",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11075401",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11075420",
+      "cargo": "PLANEJADOR DE PATIO",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11075420",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11075430",
+      "cargo": "AUXILIAR DE CONTROLE DE EQUIPAMENTOS",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11075440",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11075440",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11075501",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11075560",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11075600",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11075700",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11075700",
+      "cargo": "PLANEJADOR DE NAVIO",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11080100",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11080370",
+      "cargo": "AUXILIAR DE CONTROLE DE EQUIPAMENTOS",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11080520",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11080520",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11080550",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11080560",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11080670",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11080670",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11081060",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11081060",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11081110",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11081290",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11081300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11082150",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11082320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11082400",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11082500",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11085000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11085001",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11085010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11085070",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11085070",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11085070",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11085070",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11085080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11085080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11085080",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11085080",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11085080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11085090",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11085090",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11085100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11085201",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11085240",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11085360",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11085405",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11085405",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11085570",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11085590",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11085625",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11085625",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11085625",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11085680",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11085691",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11085691",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11085691",
+      "cargo": "ESCALADOR",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11085700",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11085740",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11085740",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11085740",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11085755",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11085755",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11085755",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11086001",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11086100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11086130",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11086170",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11086300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11086400",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11086400",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11086400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11086500",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11087000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11087001",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11087040",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11087040",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11087150",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11087300",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11087300",
+      "cargo": "OPERADOR DE GATE",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11087320",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11087370",
+      "cargo": "PLANEJADOR DE NAVIO",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11087420",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11087430",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11087500",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11087510",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11087530",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11088016",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11088050",
+      "cargo": "PLANEJADOR DE NAVIO",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11088050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11088170",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11088205",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11088270",
+      "cargo": "OPERADOR DE GATE",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11088300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11088310",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11088320",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11088320",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11088330",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11088330",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11088330",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11088330",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11088330",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11088330",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11088420",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11088450",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11088450",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11088450",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11088450",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11088450",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11088500",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11088500",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11088500",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11089050",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11089080",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11089100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11089130",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11089160",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11089180",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11089210",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11089220",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11090100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11090150",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11090200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11090275",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11090300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11090300",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11090300",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11095110",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11095130",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11095130",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11095210",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11095330",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11310020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11310050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11310070",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11310080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11310090",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11310100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11310180",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11310401",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11320001",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11320010",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11320010",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11320020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11320050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11320140",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11320150",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11320180",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11320210",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11325130",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11325130",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11325140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11330000",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11330000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11330080",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11330080",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11330100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11330100",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11330220",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11330295",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11330300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11330521",
+      "cargo": "ESCALADOR",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11330610",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11330680",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11330680",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11330813",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11335000",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11335010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11335020",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11335050",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11335170",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11335190",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11335370",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11340020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11340050",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11340080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11340130",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11340230",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11340260",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11340270",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11340280",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11340280",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11340300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11340320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11340330",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11340340",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11340340",
+      "cargo": "PLANEJADOR DE NAVIO",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11340350",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11340370",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11340370",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11340395",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11340400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11345045",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11345045",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11345055",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11345065",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11345240",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11345270",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11345405",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11345412",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11345412",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11346020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11346050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11346120",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11346200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11346280",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11346350",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11346380",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11347000",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11347020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS II",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11347030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11347030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11347040",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11347050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11347060",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11347100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11347150",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11347435",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11347440",
+      "cargo": "ASSISTENTE DE MONITORAMENTO REEFER",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11347470",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11347480",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11347760",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11348050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11348050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11348120",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11348130",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11348150",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11348220",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11348270",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11348350",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11348470",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11349030",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11349050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11349060",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11349090",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11349100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11349210",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11349280",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11349300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS II",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11349340",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11350000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11350000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11350010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11350190",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11350190",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11350200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11350200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11350250",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11350260",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11350270",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11350290",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11350360",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11350360",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11350360",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11350410",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11350530",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11350660",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11355000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11355010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11355010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11355020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11355030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11355030",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11355030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11355030",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11355180",
+      "cargo": "OPERADOR DE GATE",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11355180",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11355240",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11355250",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11355250",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11355260",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11355280",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11355280",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11355290",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11355350",
+      "cargo": "ASSISTENTE DE MONITORAMENTO REEFER",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11355350",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11355390",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11355420",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11355420",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11355450",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11360000",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11360000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11360010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11360030",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11360100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11360170",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11360180",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11360190",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11360200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11360200",
+      "cargo": "ASSISTENTE DE MONITORAMENTO REEFER",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11360210",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11360210",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11360250",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11360310",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11360350",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11360370",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11360380",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11360380",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11360400",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11360400",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11360400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11360400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11360420",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11360460",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11360600",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11365000",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11365030",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11365030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11365070",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11365100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11365100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11365120",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11365130",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11365140",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11365140",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11365220",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11365230",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11365280",
+      "cargo": "SUPERVISOR DE GATE",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11365350",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11365665",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11370010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11370010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11370010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11370170",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11370200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11370220",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11370230",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11370400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11370400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11370540",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11370550",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11370590",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11370610",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11370640",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11380020",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11380030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11380030",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11380060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11380140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11380190",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11380200",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11380310",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11380320",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11380370",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11380380",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11380500",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11380520",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11390210",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11390300",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11390320",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11390330",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11390430",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11410140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11410162",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11410330",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11420220",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11420430",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11420445",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11420460",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11421030",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11425100",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11425120",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11425135",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11425170",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11425170",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11425180",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11425180",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11425220",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11425220",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11425240",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11430030",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11430060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11430060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11430200",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11430220",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11430220",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11430260",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11430370",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11431070",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11431101",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11431180",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11431210",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11431410",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11432080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11432080",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11432100",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11432100",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11432170",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11432210",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11432250",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11432290",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11432290",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11432290",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11432320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11432360",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11432370",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11432420",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11432500",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11432500",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11435000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11435000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11435000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11435010",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11435080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11435080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11435100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11435110",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11436000",
+      "cargo": "ESCALADOR",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11436080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11440000",
+      "cargo": "ESCALADOR",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11440100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11440110",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11440150",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11440310",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11440320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11440360",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11440380",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11440380",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11440430",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11441000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11441190",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11443020",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11444460",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11444580",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11444680",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11446060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11446150",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11446230",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11446260",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11449160",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11450060",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11450060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11450070",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11450090",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11450100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11450170",
+      "cargo": "OPERADOR DE EQUIPAMENTOS II",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11450260",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11450310",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11450320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11450320",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL SR",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11450320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11450340",
+      "cargo": "OPERADOR DE EQUIPAMENTOS II",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11450435",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11450450",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11450490",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11450500",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11450530",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11451010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11451010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11451020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11451020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11451020",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11451041",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11451060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11451061",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11451080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11451080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11451120",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11451140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11451140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11451160",
+      "cargo": "ASSISTENTE DE PLANEJAMENTO DE NAVIO",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11451170",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11451230",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11451240",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11451320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11451340",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11451350",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11451360",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11451400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11451410",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11453010",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11453030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11453030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11453205",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11453205",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11453205",
+      "cargo": "CONFERENTE PL",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11453210",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11453230",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11453240",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11454000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11454010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11454050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11454090",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11454110",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11454260",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11454270",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11454280",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11454290",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11454290",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11454370",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11454375",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11454490",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11454510",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11454530",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11454550",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11454630",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11454680",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11460000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11460002",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11460004",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11460010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11460101",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11460102",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11460103",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11460160",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11460180",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11460290",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11460300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11460300",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11460310",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11460310",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11460310",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11460320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11460400",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11460400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11460500",
+      "cargo": "PLANEJADOR DE NAVIO",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11460511",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11460540",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11460560",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11461010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11461020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11461090",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11461290",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11461560",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11461580",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11461610",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11461610",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11461630",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11461640",
+      "cargo": "ESCALADOR",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11461640",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11461650",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11461650",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11462000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11462000",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11462000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11462190",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11462200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11462340",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11462400",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11462410",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11462410",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11462450",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11462480",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11462585",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11462630",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11463010",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11463070",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11463070",
+      "cargo": "OPERADOR DE GATE I",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11463140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11463180",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11463430",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11470000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11470000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11470000",
+      "cargo": "OPERADOR DE GATE",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11470000",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11470030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11470030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11470061",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11470120",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11470150",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11470170",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11470180",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11470190",
+      "cargo": "OPERADOR DE GATE",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11470200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11470200",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11470215",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11470280",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11471000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11471010",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11471020",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11471020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11471040",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11471050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11471050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11471060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11471070",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11471070",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11471090",
+      "cargo": "OPERADOR DE GATE",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11471090",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11471115",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11472030",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11472100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11472100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11472100",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11472100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11472100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11472110",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11472130",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11495000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11495000",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11495000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11495009",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11495012",
+      "cargo": "AUXILIAR DE OPERACOES PORTUARIAS",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11495013",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11495019",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11495026",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11495137",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11495150",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11495185",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11495191",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11497510",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11497510",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11497520",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11497530",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11500330",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11500680",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11515210",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11520000",
+      "cargo": "ASSISTENTE DE PLANEJAMENTO DE NAVIO",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11520020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11520040",
+      "cargo": "PLANEJADOR DE PATIO",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11520050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11520050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11525010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11530080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11531060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11533050",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11533140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11533160",
+      "cargo": "PLANEJADOR DE NAVIO",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11533510",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11533540",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11534730",
+      "cargo": "OPERADOR DE GATE",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11534880",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11540200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11540220",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11543100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11700040",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11700400",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11700405",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11700450",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11700550",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11700640",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11701000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11701635",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11702020",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11702650",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11702650",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11703300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11704130",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11704210",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11704450",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11704460",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11704690",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11705080",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11705320",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11705640",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11705640",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11706010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11706150",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11710250",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11711240",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "1"
+    },
+    {
+      "cep": "11712010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11712110",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11712150",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11712300",
+      "cargo": "CONFERENTE JR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11712420",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11712490",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11712620",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11713190",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11713300",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11713530",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11714140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11714520",
+      "cargo": "OPERADOR DE COSTADO - CAPATAZIA",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11717065",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11718155",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11719040",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11719120",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "4"
+    },
+    {
+      "cep": "11720050",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11720100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11721060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11721080",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11721200",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11722100",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11722130",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11722140",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11722180",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11722190",
+      "cargo": "OPERADOR DE EQUIPAMENTOS III",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11722360",
+      "cargo": "ANALISTA DE EXECUCAO OPERACIONAL JR",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11722380",
+      "cargo": "OPERADOR DE GATE II",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11723030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11723030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11724190",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11724260",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11724340",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "1"
+    },
+    {
+      "cep": "11725010",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11725030",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11725030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11725030",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "2"
+    },
+    {
+      "cep": "11725030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11725030",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "5"
+    },
+    {
+      "cep": "11725040",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11725060",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "2"
+    },
+    {
+      "cep": "11725060",
+      "cargo": "CONFERENTE SR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11725120",
+      "cargo": "OPERADOR DE EQUIPAMENTOS I",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11725390",
+      "cargo": "OPERADOR DE BORDO - ESTIVADOR",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "11725420",
+      "cargo": "OPERADOR DE EQUIPAMENTOS IV",
+      "escala": "240",
+      "turma": "3"
+    },
+    {
+      "cep": "11730000",
+      "cargo": "MONITORADOR REEFER",
+      "escala": "224",
+      "turma": "3"
+    },
+    {
+      "cep": "11730000",
+      "cargo": "OPERADOR DE EQUIPAMENTOS V",
+      "escala": "240",
+      "turma": "4"
+    },
+    {
+      "cep": "23815150",
+      "cargo": "PLANEJADOR DE NAVIO",
+      "escala": "224",
+      "turma": "4"
+    }
+  ],
+  "funcionario": [
+    {
+      "id_funcionario": "1",
+      "registro_funcionario": "5",
+      "nome_funcionario": "Mr. Sheldon Wuckert III",
+      "cargo_funcionario": "morph granular content",
+      "registro_atividades": "6",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "6",
+      "horas_ocioso_semana": "3",
+      "horas_ocioso_mes": "7",
+      "dthr_ultimo_registro": "2002-01-28T23:32:22+0000"
+    },
+    {
+      "id_funcionario": "2",
+      "registro_funcionario": "4",
+      "nome_funcionario": "Miss Retha Grimes",
+      "cargo_funcionario": "unleash world-class e-tailers",
+      "registro_atividades": "9",
+      "horas_tralhadas_mes":"118",
+      "nm_nivel": "4",
+      "horas_ocioso_semana": "4",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "2010-05-22T08:33:05+0000"
+    },
+    {
+      "id_funcionario": "3",
+      "registro_funcionario": "9",
+      "nome_funcionario": "Noemi Spencer Jr.",
+      "cargo_funcionario": "whiteboard 24/7 infomediaries",
+      "registro_atividades": "9",
+      "horas_tralhadas_mes":"121",
+      "nm_nivel": "5",
+      "horas_ocioso_semana": "7",
+      "horas_ocioso_mes": "7",
+      "dthr_ultimo_registro": "1990-01-17T01:50:50+0000"
+    },
+    {
+      "id_funcionario": "4",
+      "registro_funcionario": "9",
+      "nome_funcionario": "Dr. Javonte Metz",
+      "cargo_funcionario": "maximize extensible systems",
+      "registro_atividades": "7",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "3",
+      "horas_ocioso_semana": "3",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "1975-12-19T21:30:02+0000"
+    },
+    {
+      "id_funcionario": "5",
+      "registro_funcionario": "2",
+      "nome_funcionario": "Kyle Armstrong",
+      "cargo_funcionario": "morph compelling synergies",
+      "registro_atividades": "4",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "5",
+      "horas_ocioso_semana": "4",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "1971-02-28T17:49:20+0000"
+    },
+    {
+      "id_funcionario": "6",
+      "registro_funcionario": "3",
+      "nome_funcionario": "Dr. Milan Bogan Jr.",
+      "cargo_funcionario": "orchestrate ubiquitous e-markets",
+      "registro_atividades": "1",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "6",
+      "horas_ocioso_semana": "5",
+      "horas_ocioso_mes": "1",
+      "dthr_ultimo_registro": "2009-03-27T21:46:34+0000"
+    },
+    {
+      "id_funcionario": "7",
+      "registro_funcionario": "1",
+      "nome_funcionario": "Miss Amie Swift",
+      "cargo_funcionario": "implement granular markets",
+      "registro_atividades": "7",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "3",
+      "horas_ocioso_semana": "",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "1992-08-28T19:57:16+0000"
+    },
+    {
+      "id_funcionario": "8",
+      "registro_funcionario": "4",
+      "nome_funcionario": "Margaret Rogahn",
+      "cargo_funcionario": "leverage real-time methodologies",
+      "registro_atividades": "5",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "9",
+      "horas_ocioso_semana": "2",
+      "horas_ocioso_mes": "1",
+      "dthr_ultimo_registro": "1978-06-20T06:35:43+0000"
+    },
+    {
+      "id_funcionario": "9",
+      "registro_funcionario": "4",
+      "nome_funcionario": "Prof. Darrion Fay II",
+      "cargo_funcionario": "architect front-end systems",
+      "registro_atividades": "9",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "9",
+      "horas_ocioso_semana": "4",
+      "horas_ocioso_mes": "7",
+      "dthr_ultimo_registro": "2014-12-11T21:00:08+0000"
+    },
+    {
+      "id_funcionario": "10",
+      "registro_funcionario": "9",
+      "nome_funcionario": "Ardella Zieme",
+      "cargo_funcionario": "grow open-source infrastructures",
+      "registro_atividades": "5",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "7",
+      "horas_ocioso_semana": "9",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "2011-02-07T01:39:44+0000"
+    },
+    {
+      "id_funcionario": "11",
+      "registro_funcionario": "5",
+      "nome_funcionario": "Brooks Gusikowski",
+      "cargo_funcionario": "streamline bricks-and-clicks deliverables",
+      "registro_atividades": "1",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "7",
+      "horas_ocioso_semana": "9",
+      "horas_ocioso_mes": "8",
+      "dthr_ultimo_registro": "1971-02-13T18:37:03+0000"
+    },
+    {
+      "id_funcionario": "12",
+      "registro_funcionario": "4",
+      "nome_funcionario": "Prof. Halie Eichmann",
+      "cargo_funcionario": "benchmark extensible synergies",
+      "registro_atividades": "6",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "4",
+      "horas_ocioso_semana": "",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "1982-07-01T01:57:46+0000"
+    },
+    {
+      "id_funcionario": "13",
+      "registro_funcionario": "8",
+      "nome_funcionario": "Miss Libbie Feil IV",
+      "cargo_funcionario": "deploy plug-and-play supply-chains",
+      "registro_atividades": "5",
+      "horas_tralhadas_mes":"115",
+      "nm_nivel": "5",
+      "horas_ocioso_semana": "3",
+      "horas_ocioso_mes": "1",
+      "dthr_ultimo_registro": "1975-09-10T19:01:59+0000"
+    },
+    {
+      "id_funcionario": "14",
+      "registro_funcionario": "7",
+      "nome_funcionario": "Kyleigh Mertz",
+      "cargo_funcionario": "envisioneer value-added infomediaries",
+      "registro_atividades": "3",
+      "horas_tralhadas_mes":"110",
+      "nm_nivel": "1",
+      "horas_ocioso_semana": "7",
+      "horas_ocioso_mes": "8",
+      "dthr_ultimo_registro": "2014-08-30T03:08:57+0000"
+    },
+    {
+      "id_funcionario": "15",
+      "registro_funcionario": "1",
+      "nome_funcionario": "Miss Haven Bogisich",
+      "cargo_funcionario": "incubate proactive interfaces",
+      "registro_atividades": "6",
+      "horas_tralhadas_mes":"107",
+      "nm_nivel": "9",
+      "horas_ocioso_semana": "9",
+      "horas_ocioso_mes": "8",
+      "dthr_ultimo_registro": "1999-07-12T08:03:53+0000"
+    },
+    {
+      "id_funcionario": "16",
+      "registro_funcionario": "9",
+      "nome_funcionario": "Jo Cassin",
+      "cargo_funcionario": "iterate plug-and-play applications",
+      "registro_atividades": "6",
+      "horas_tralhadas_mes":"125",
+      "nm_nivel": "5",
+      "horas_ocioso_semana": "6",
+      "horas_ocioso_mes": "7",
+      "dthr_ultimo_registro": "1985-12-03T19:56:35+0000"
+    },
+    {
+      "id_funcionario": "17",
+      "registro_funcionario": "6",
+      "nome_funcionario": "Osborne Monahan Jr.",
+      "cargo_funcionario": "evolve extensible web-readiness",
+      "registro_atividades": "3",
+      "horas_tralhadas_mes":"103",
+      "nm_nivel": "1",
+      "horas_ocioso_semana": "4",
+      "horas_ocioso_mes": "9",
+      "dthr_ultimo_registro": "2014-06-15T17:25:46+0000"
+    },
+    {
+      "id_funcionario": "18",
+      "registro_funcionario": "2",
+      "nome_funcionario": "Robert Yost",
+      "cargo_funcionario": "reinvent real-time relationships",
+      "registro_atividades": "2",
+      "horas_tralhadas_mes":"116",
+      "nm_nivel": "2",
+      "horas_ocioso_semana": "",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "1985-12-30T23:50:01+0000"
+    },
+    {
+      "id_funcionario": "19",
+      "registro_funcionario": "4",
+      "nome_funcionario": "Maureen Heller",
+      "cargo_funcionario": "harness e-business supply-chains",
+      "registro_atividades": "8",
+      "horas_tralhadas_mes":"113",
+      "nm_nivel": "3",
+      "horas_ocioso_semana": "",
+      "horas_ocioso_mes": "8",
+      "dthr_ultimo_registro": "2000-10-10T03:41:08+0000"
+    },
+    {
+      "id_funcionario": "20",
+      "registro_funcionario": "8",
+      "nome_funcionario": "Jerome Kuphal",
+      "cargo_funcionario": "facilitate strategic niches",
+      "registro_atividades": "3",
+      "horas_tralhadas_mes":"111",
+      "nm_nivel": "1",
+      "horas_ocioso_semana": "",
+      "horas_ocioso_mes": "8",
+      "dthr_ultimo_registro": "2003-05-07T19:01:01+0000"
+    },
+    {
+      "id_funcionario": "21",
+      "registro_funcionario": "4",
+      "nome_funcionario": "Sigurd Kohler",
+      "cargo_funcionario": "innovate virtual systems",
+      "registro_atividades": "5",
+      "horas_tralhadas_mes":"109",
+      "nm_nivel": "4",
+      "horas_ocioso_semana": "1",
+      "horas_ocioso_mes": "7",
+      "dthr_ultimo_registro": "2006-05-13T15:39:59+0000"
+    },
+    {
+      "id_funcionario": "22",
+      "registro_funcionario": "2",
+      "nome_funcionario": "Dr. Santiago Will IV",
+      "cargo_funcionario": "extend real-time methodologies",
+      "registro_atividades": "1",
+      "horas_tralhadas_mes":"101",
+      "nm_nivel": "4",
+      "horas_ocioso_semana": "7",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "2000-01-31T05:41:01+0000"
+    },
+    {
+      "id_funcionario": "23",
+      "registro_funcionario": "3",
+      "nome_funcionario": "Prof. Kristopher Dooley II",
+      "cargo_funcionario": "benchmark 24/7 systems",
+      "registro_atividades": "7",
+      "horas_tralhadas_mes":"102",
+      "nm_nivel": "5",
+      "horas_ocioso_semana": "1",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "2005-08-23T05:43:02+0000"
+    },
+    {
+      "id_funcionario": "24",
+      "registro_funcionario": "7",
+      "nome_funcionario": "Prof. Raul Kuhn MD",
+      "cargo_funcionario": "brand viral paradigms",
+      "registro_atividades": "9",
+      "horas_tralhadas_mes":"103",
+      "nm_nivel": "9",
+      "horas_ocioso_semana": "1",
+      "horas_ocioso_mes": "8",
+      "dthr_ultimo_registro": "1987-03-27T04:04:30+0000"
+    },
+    {
+      "id_funcionario": "25",
+      "registro_funcionario": "6",
+      "nome_funcionario": "Fletcher Sporer",
+      "cargo_funcionario": "revolutionize seamless methodologies",
+      "registro_atividades": "7",
+      "horas_tralhadas_mes":"107",
+      "nm_nivel": "9",
+      "horas_ocioso_semana": "7",
+      "horas_ocioso_mes": "1",
+      "dthr_ultimo_registro": "1993-12-26T01:26:33+0000"
+    },
+    {
+      "id_funcionario": "26",
+      "registro_funcionario": "5",
+      "nome_funcionario": "Prof. Justice Nader",
+      "cargo_funcionario": "grow magnetic portals",
+      "registro_atividades": "8",
+      "horas_tralhadas_mes":"108",
+      "nm_nivel": "7",
+      "horas_ocioso_semana": "6",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "1985-08-15T05:57:06+0000"
+    },
+    {
+      "id_funcionario": "27",
+      "registro_funcionario": "5",
+      "nome_funcionario": "Herta Gorczany",
+      "cargo_funcionario": "monetize granular content",
+      "registro_atividades": "8",
+      "horas_tralhadas_mes":"116",
+      "nm_nivel": "6",
+      "horas_ocioso_semana": "8",
+      "horas_ocioso_mes": "3",
+      "dthr_ultimo_registro": "2000-06-29T19:21:35+0000"
+    },
+    {
+      "id_funcionario": "28",
+      "registro_funcionario": "5",
+      "nome_funcionario": "Bill Reichel",
+      "cargo_funcionario": "expedite sexy platforms",
+      "registro_atividades": "4",
+      "horas_tralhadas_mes":"107",
+      "nm_nivel": "1",
+      "horas_ocioso_semana": "5",
+      "horas_ocioso_mes": "8",
+      "dthr_ultimo_registro": "1991-09-14T18:04:56+0000"
+    },
+    {
+      "id_funcionario": "29",
+      "registro_funcionario": "3",
+      "nome_funcionario": "Deanna Ruecker PhD",
+      "cargo_funcionario": "envisioneer rich methodologies",
+      "registro_atividades": "8",
+      "horas_tralhadas_mes":"123",
+      "nm_nivel": "2",
+      "horas_ocioso_semana": "7",
+      "horas_ocioso_mes": "7",
+      "dthr_ultimo_registro": "1985-09-28T21:44:32+0000"
+    },
+    {
+      "id_funcionario": "30",
+      "registro_funcionario": "8",
+      "nome_funcionario": "Mr. Aiden Metz DVM",
+      "cargo_funcionario": "deploy seamless functionalities",
+      "registro_atividades": "1",
+      "horas_tralhadas_mes":"114",
+      "nm_nivel": "3",
+      "horas_ocioso_semana": "",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "1987-12-24T17:11:51+0000"
+    },
+    {
+      "id_funcionario": "31",
+      "registro_funcionario": "5",
+      "nome_funcionario": "Jordyn Mann",
+      "cargo_funcionario": "incubate scalable communities",
+      "registro_atividades": "1",
+      "horas_tralhadas_mes":"121",
+      "nm_nivel": "3",
+      "horas_ocioso_semana": "9",
+      "horas_ocioso_mes": "2",
+      "dthr_ultimo_registro": "1972-04-01T07:42:26+0000"
+    },
+    {
+      "id_funcionario": "32",
+      "registro_funcionario": "7",
+      "nome_funcionario": "Lauriane VonRueden",
+      "cargo_funcionario": "unleash B2B e-tailers",
+      "registro_atividades": "3",
+      "horas_tralhadas_mes":"112",
+      "nm_nivel": "2",
+      "horas_ocioso_semana": "5",
+      "horas_ocioso_mes": "7",
+      "dthr_ultimo_registro": "2018-03-07T14:31:57+0000"
+    },
+    {
+      "id_funcionario": "33",
+      "registro_funcionario": "1",
+      "nome_funcionario": "Mrs. Aliyah Jerde III",
+      "cargo_funcionario": "scale next-generation relationships",
+      "registro_atividades": "3",
+      "horas_tralhadas_mes":"111",
+      "nm_nivel": "7",
+      "horas_ocioso_semana": "1",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "1978-09-21T18:52:32+0000"
+    },
+    {
+      "id_funcionario": "34",
+      "registro_funcionario": "2",
+      "nome_funcionario": "Dr. Ramona Schoen",
+      "cargo_funcionario": "transform front-end infrastructures",
+      "registro_atividades": "7",
+      "horas_tralhadas_mes":"110",
+      "nm_nivel": "5",
+      "horas_ocioso_semana": "9",
+      "horas_ocioso_mes": "4",
+      "dthr_ultimo_registro": "1985-12-30T10:01:37+0000"
+    },
+    {
+      "id_funcionario": "35",
+      "registro_funcionario": "8",
+      "nome_funcionario": "Wilber Terry DDS",
+      "cargo_funcionario": "incubate real-time mindshare",
+      "registro_atividades": "6",
+      "horas_tralhadas_mes":"116",
+      "nm_nivel": "4",
+      "horas_ocioso_semana": "4",
+      "horas_ocioso_mes": "9",
+      "dthr_ultimo_registro": "1980-05-08T00:22:51+0000"
+    },
+    {
+      "id_funcionario": "36",
+      "registro_funcionario": "5",
+      "nome_funcionario": "Mr. Erich Schoen",
+      "cargo_funcionario": "incubate sexy relationships",
+      "registro_atividades": "7",
+      "horas_tralhadas_mes":"118",
+      "nm_nivel": "4",
+      "horas_ocioso_semana": "4",
+      "horas_ocioso_mes": "1",
+      "dthr_ultimo_registro": "1998-06-21T11:01:15+0000"
+    },
+    {
+      "id_funcionario": "37",
+      "registro_funcionario": "3",
+      "nome_funcionario": "Warren Schneider I",
+      "cargo_funcionario": "embrace integrated platforms",
+      "registro_atividades": "6",
+      "horas_tralhadas_mes":"119",
+      "nm_nivel": "9",
+      "horas_ocioso_semana": "7",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "2013-11-04T11:59:55+0000"
+    },
+    {
+      "id_funcionario": "38",
+      "registro_funcionario": "9",
+      "nome_funcionario": "Nettie Bogisich",
+      "cargo_funcionario": "incentivize killer networks",
+      "registro_atividades": "5",
+      "horas_tralhadas_mes":"111",
+      "nm_nivel": "9",
+      "horas_ocioso_semana": "3",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "1992-01-28T09:33:28+0000"
+    },
+    {
+      "id_funcionario": "39",
+      "registro_funcionario": "9",
+      "nome_funcionario": "Euna Sawayn",
+      "cargo_funcionario": "transition cross-platform portals",
+      "registro_atividades": "8",
+      "horas_tralhadas_mes":"112",
+      "nm_nivel": "3",
+      "horas_ocioso_semana": "8",
+      "horas_ocioso_mes": "9",
+      "dthr_ultimo_registro": "2018-01-23T17:06:49+0000"
+    },
+    {
+      "id_funcionario": "40",
+      "registro_funcionario": "2",
+      "nome_funcionario": "Maryam Cormier",
+      "cargo_funcionario": "aggregate transparent e-markets",
+      "registro_atividades": "3",
+      "horas_tralhadas_mes":"109",
+      "nm_nivel": "2",
+      "horas_ocioso_semana": "7",
+      "horas_ocioso_mes": "8",
+      "dthr_ultimo_registro": "1994-03-04T14:28:52+0000"
+    },
+    {
+      "id_funcionario": "41",
+      "registro_funcionario": "3",
+      "nome_funcionario": "Verna Legros",
+      "cargo_funcionario": "leverage sticky e-tailers",
+      "registro_atividades": "7",
+      "horas_tralhadas_mes":"113",
+      "nm_nivel": "4",
+      "horas_ocioso_semana": "6",
+      "horas_ocioso_mes": "4",
+      "dthr_ultimo_registro": "2004-11-19T03:32:23+0000"
+    },
+    {
+      "id_funcionario": "42",
+      "registro_funcionario": "5",
+      "nome_funcionario": "Chanelle Powlowski",
+      "cargo_funcionario": "benchmark extensible partnerships",
+      "registro_atividades": "1",
+      "horas_tralhadas_mes":"113",
+      "nm_nivel": "8",
+      "horas_ocioso_semana": "5",
+      "horas_ocioso_mes": "7",
+      "dthr_ultimo_registro": "2017-06-11T20:51:57+0000"
+    },
+    {
+      "id_funcionario": "43",
+      "registro_funcionario": "1",
+      "nome_funcionario": "Oswald Pagac",
+      "cargo_funcionario": "cultivate efficient e-services",
+      "registro_atividades": "7",
+      "horas_tralhadas_mes":"116",
+      "nm_nivel": "6",
+      "horas_ocioso_semana": "5",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "2012-03-05T19:34:11+0000"
+    },
+    {
+      "id_funcionario": "44",
+      "registro_funcionario": "4",
+      "nome_funcionario": "Prof. Clint Baumbach",
+      "cargo_funcionario": "morph wireless users",
+      "registro_atividades": "9",
+      "horas_tralhadas_mes":"122",
+      "nm_nivel": "5",
+      "horas_ocioso_semana": "6",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "2017-05-02T09:48:07+0000"
+    },
+    {
+      "id_funcionario": "45",
+      "registro_funcionario": "8",
+      "nome_funcionario": "Romaine Feeney",
+      "cargo_funcionario": "drive innovative experiences",
+      "registro_atividades": "6",
+      "horas_tralhadas_mes":"117",
+      "nm_nivel": "3",
+      "horas_ocioso_semana": "5",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "1987-09-20T16:47:38+0000"
+    },
+    {
+      "id_funcionario": "46",
+      "registro_funcionario": "3",
+      "nome_funcionario": "Kayley Dietrich",
+      "cargo_funcionario": "seize holistic niches",
+      "registro_atividades": "9",
+      "horas_tralhadas_mes":"114",
+      "nm_nivel": "8",
+      "horas_ocioso_semana": "4",
+      "horas_ocioso_mes": "1",
+      "dthr_ultimo_registro": "2011-11-09T18:20:03+0000"
+    },
+    {
+      "id_funcionario": "47",
+      "registro_funcionario": "6",
+      "nome_funcionario": "Aryanna Hand",
+      "cargo_funcionario": "unleash turn-key communities",
+      "registro_atividades": "6",
+      "horas_tralhadas_mes":"112",
+      "nm_nivel": "5",
+      "horas_ocioso_semana": "9",
+      "horas_ocioso_mes": "6",
+      "dthr_ultimo_registro": "2007-12-20T10:11:52+0000"
+    },
+    {
+      "id_funcionario": "48",
+      "registro_funcionario": "4",
+      "nome_funcionario": "Prof. Alfonso Boyer",
+      "cargo_funcionario": "architect intuitive paradigms",
+      "registro_atividades": "5",
+      "horas_tralhadas_mes":"110",
+      "nm_nivel": "5",
+      "horas_ocioso_semana": "3",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "1989-03-11T13:02:18+0000"
+    },
+    {
+      "id_funcionario": "49",
+      "registro_funcionario": "4",
+      "nome_funcionario": "Amiya Harris",
+      "cargo_funcionario": "seize distributed e-services",
+      "registro_atividades": "8",
+      "horas_tralhadas_mes":"109",
+      "nm_nivel": "6",
+      "horas_ocioso_semana": "9",
+      "horas_ocioso_mes": "4",
+      "dthr_ultimo_registro": "2006-03-06T15:57:31+0000"
+    },
+    {
+      "id_funcionario": "50",
+      "registro_funcionario": "2",
+      "nome_funcionario": "Ms. Cleta Cormier",
+      "cargo_funcionario": "optimize transparent channels",
+      "registro_atividades": "4",
+      "horas_tralhadas_mes":"107",
+      "nm_nivel": "4",
+      "horas_ocioso_semana": "8",
+      "horas_ocioso_mes": "5",
+      "dthr_ultimo_registro": "1971-07-28T08:05:44+0000"
+    }
+  ],
+  "funcionario_status": [
+    {
+      "cd_status": "1",
+      "id_status": "1",
+      "desc_status": "et"
+    },
+    {
+      "cd_status": "2",
+      "id_status": "0",
+      "desc_status": "voluptas"
+    },
+    {
+      "cd_status": "3",
+      "id_status": "1",
+      "desc_status": "eos"
+    },
+    {
+      "cd_status": "4",
+      "id_status": "0",
+      "desc_status": "suscipit"
+    },
+    {
+      "cd_status": "5",
+      "id_status": "1",
+      "desc_status": "qui"
+    },
+    {
+      "cd_status": "6",
+      "id_status": "0",
+      "desc_status": "eaque"
+    },
+    {
+      "cd_status": "7",
+      "id_status": "0",
+      "desc_status": "non"
+    },
+    {
+      "cd_status": "8",
+      "id_status": "0",
+      "desc_status": "dolores"
+    },
+    {
+      "cd_status": "9",
+      "id_status": "1",
+      "desc_status": "dolores"
+    },
+    {
+      "cd_status": "10",
+      "id_status": "1",
+      "desc_status": "tempora"
+    },
+    {
+      "cd_status": "11",
+      "id_status": "1",
+      "desc_status": "est"
+    },
+    {
+      "cd_status": "12",
+      "id_status": "1",
+      "desc_status": "temporibus"
+    },
+    {
+      "cd_status": "13",
+      "id_status": "0",
+      "desc_status": "minima"
+    },
+    {
+      "cd_status": "14",
+      "id_status": "1",
+      "desc_status": "et"
+    },
+    {
+      "cd_status": "15",
+      "id_status": "0",
+      "desc_status": "eum"
+    },
+    {
+      "cd_status": "16",
+      "id_status": "0",
+      "desc_status": "at"
+    },
+    {
+      "cd_status": "17",
+      "id_status": "1",
+      "desc_status": "molestiae"
+    },
+    {
+      "cd_status": "18",
+      "id_status": "0",
+      "desc_status": "velit"
+    },
+    {
+      "cd_status": "19",
+      "id_status": "0",
+      "desc_status": "voluptatem"
+    },
+    {
+      "cd_status": "20",
+      "id_status": "1",
+      "desc_status": "deserunt"
+    },
+    {
+      "cd_status": "21",
+      "id_status": "1",
+      "desc_status": "odio"
+    },
+    {
+      "cd_status": "22",
+      "id_status": "1",
+      "desc_status": "aut"
+    },
+    {
+      "cd_status": "23",
+      "id_status": "1",
+      "desc_status": "pariatur"
+    },
+    {
+      "cd_status": "24",
+      "id_status": "1",
+      "desc_status": "iste"
+    },
+    {
+      "cd_status": "25",
+      "id_status": "1",
+      "desc_status": "sit"
+    },
+    {
+      "cd_status": "26",
+      "id_status": "0",
+      "desc_status": "et"
+    },
+    {
+      "cd_status": "27",
+      "id_status": "1",
+      "desc_status": "ut"
+    },
+    {
+      "cd_status": "28",
+      "id_status": "0",
+      "desc_status": "ea"
+    },
+    {
+      "cd_status": "29",
+      "id_status": "1",
+      "desc_status": "et"
+    },
+    {
+      "cd_status": "30",
+      "id_status": "1",
+      "desc_status": "doloremque"
+    },
+    {
+      "cd_status": "31",
+      "id_status": "1",
+      "desc_status": "itaque"
+    },
+    {
+      "cd_status": "32",
+      "id_status": "0",
+      "desc_status": "sed"
+    },
+    {
+      "cd_status": "33",
+      "id_status": "0",
+      "desc_status": "cumque"
+    },
+    {
+      "cd_status": "34",
+      "id_status": "0",
+      "desc_status": "quas"
+    },
+    {
+      "cd_status": "35",
+      "id_status": "0",
+      "desc_status": "blanditiis"
+    },
+    {
+      "cd_status": "36",
+      "id_status": "0",
+      "desc_status": "quia"
+    },
+    {
+      "cd_status": "37",
+      "id_status": "0",
+      "desc_status": "vel"
+    },
+    {
+      "cd_status": "38",
+      "id_status": "0",
+      "desc_status": "facere"
+    },
+    {
+      "cd_status": "39",
+      "id_status": "0",
+      "desc_status": "laudantium"
+    },
+    {
+      "cd_status": "40",
+      "id_status": "1",
+      "desc_status": "dignissimos"
+    },
+    {
+      "cd_status": "41",
+      "id_status": "0",
+      "desc_status": "eaque"
+    },
+    {
+      "cd_status": "42",
+      "id_status": "1",
+      "desc_status": "sint"
+    },
+    {
+      "cd_status": "43",
+      "id_status": "0",
+      "desc_status": "rerum"
+    },
+    {
+      "cd_status": "44",
+      "id_status": "0",
+      "desc_status": "soluta"
+    },
+    {
+      "cd_status": "45",
+      "id_status": "0",
+      "desc_status": "aut"
+    },
+    {
+      "cd_status": "46",
+      "id_status": "1",
+      "desc_status": "cumque"
+    },
+    {
+      "cd_status": "47",
+      "id_status": "0",
+      "desc_status": "quia"
+    },
+    {
+      "cd_status": "48",
+      "id_status": "1",
+      "desc_status": "earum"
+    },
+    {
+      "cd_status": "49",
+      "id_status": "0",
+      "desc_status": "ex"
+    },
+    {
+      "cd_status": "50",
+      "id_status": "1",
+      "desc_status": "ea"
+    }
+  ],
+  "operacao": [
+    {
+      "cd_operacao": "102",
+      "dthr_inicio": "2012-09-05T04:07:52+0000",
+      "dthr_previsao_fim": "2007-09-13T16:10:17+0000",
+      "cd_terno": "8",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "103",
+      "dthr_inicio": "1980-03-21T14:44:43+0000",
+      "dthr_previsao_fim": "2015-05-27T19:21:12+0000",
+      "cd_terno": "2",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "106",
+      "dthr_inicio": "2016-11-25T05:11:15+0000",
+      "dthr_previsao_fim": "2018-06-30T02:17:51+0000",
+      "cd_terno": "5",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "110",
+      "dthr_inicio": "1972-06-14T15:29:54+0000",
+      "dthr_previsao_fim": "1993-06-18T01:42:37+0000",
+      "cd_terno": "4",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "112",
+      "dthr_inicio": "2001-09-01T20:26:36+0000",
+      "dthr_previsao_fim": "1984-03-05T22:15:07+0000",
+      "cd_terno": "5",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "114",
+      "dthr_inicio": "2004-07-02T01:13:31+0000",
+      "dthr_previsao_fim": "2014-12-01T18:05:49+0000",
+      "cd_terno": "9",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "116",
+      "dthr_inicio": "1986-02-11T10:58:10+0000",
+      "dthr_previsao_fim": "2007-02-16T14:45:10+0000",
+      "cd_terno": "9",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "117",
+      "dthr_inicio": "1999-03-27T12:31:42+0000",
+      "dthr_previsao_fim": "1976-07-08T16:16:12+0000",
+      "cd_terno": "3",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "120",
+      "dthr_inicio": "2003-02-02T12:41:41+0000",
+      "dthr_previsao_fim": "1981-05-28T02:41:17+0000",
+      "cd_terno": "1",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "123",
+      "dthr_inicio": "2003-03-17T16:21:21+0000",
+      "dthr_previsao_fim": "1987-01-16T10:57:46+0000",
+      "cd_terno": "4",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "124",
+      "dthr_inicio": "1972-10-07T00:52:53+0000",
+      "dthr_previsao_fim": "1989-02-09T00:09:51+0000",
+      "cd_terno": "3",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "126",
+      "dthr_inicio": "2009-09-18T15:08:13+0000",
+      "dthr_previsao_fim": "2005-08-27T03:23:54+0000",
+      "cd_terno": "5",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "127",
+      "dthr_inicio": "1980-12-22T17:30:49+0000",
+      "dthr_previsao_fim": "1981-07-18T05:49:09+0000",
+      "cd_terno": "9",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "128",
+      "dthr_inicio": "1982-01-06T10:47:47+0000",
+      "dthr_previsao_fim": "1972-04-23T05:17:38+0000",
+      "cd_terno": "7",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "129",
+      "dthr_inicio": "1981-11-06T22:26:24+0000",
+      "dthr_previsao_fim": "1976-12-27T16:34:49+0000",
+      "cd_terno": "6",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "131",
+      "dthr_inicio": "2016-03-19T12:26:55+0000",
+      "dthr_previsao_fim": "2001-01-11T08:33:51+0000",
+      "cd_terno": "9",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "134",
+      "dthr_inicio": "2013-09-11T12:52:43+0000",
+      "dthr_previsao_fim": "1978-07-24T05:53:33+0000",
+      "cd_terno": "5",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "139",
+      "dthr_inicio": "1983-03-13T07:20:29+0000",
+      "dthr_previsao_fim": "2006-02-02T09:54:43+0000",
+      "cd_terno": "9",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "141",
+      "dthr_inicio": "1996-11-30T09:35:21+0000",
+      "dthr_previsao_fim": "2005-02-05T17:47:07+0000",
+      "cd_terno": "9",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "142",
+      "dthr_inicio": "1981-03-10T17:51:12+0000",
+      "dthr_previsao_fim": "1970-02-03T15:39:55+0000",
+      "cd_terno": "2",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "143",
+      "dthr_inicio": "2015-04-25T15:21:17+0000",
+      "dthr_previsao_fim": "1970-02-01T09:46:31+0000",
+      "cd_terno": "7",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "146",
+      "dthr_inicio": "1999-10-24T00:36:24+0000",
+      "dthr_previsao_fim": "1991-04-17T00:35:18+0000",
+      "cd_terno": "5",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "147",
+      "dthr_inicio": "1997-07-31T22:18:21+0000",
+      "dthr_previsao_fim": "1981-01-16T10:15:04+0000",
+      "cd_terno": "1",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "148",
+      "dthr_inicio": "1999-07-11T03:22:30+0000",
+      "dthr_previsao_fim": "1974-03-15T18:48:49+0000",
+      "cd_terno": "5",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "153",
+      "dthr_inicio": "2013-03-16T22:19:06+0000",
+      "dthr_previsao_fim": "2015-11-15T09:02:24+0000",
+      "cd_terno": "2",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "154",
+      "dthr_inicio": "1985-12-09T07:02:14+0000",
+      "dthr_previsao_fim": "1987-07-28T16:18:24+0000",
+      "cd_terno": "9",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "156",
+      "dthr_inicio": "1995-06-27T21:07:02+0000",
+      "dthr_previsao_fim": "1995-12-24T19:37:33+0000",
+      "cd_terno": "5",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "157",
+      "dthr_inicio": "1990-06-12T20:02:44+0000",
+      "dthr_previsao_fim": "2002-07-29T14:37:07+0000",
+      "cd_terno": "4",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "158",
+      "dthr_inicio": "1986-12-11T19:04:12+0000",
+      "dthr_previsao_fim": "2006-01-12T18:03:32+0000",
+      "cd_terno": "6",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "162",
+      "dthr_inicio": "1985-10-02T21:55:03+0000",
+      "dthr_previsao_fim": "2004-12-24T21:38:00+0000",
+      "cd_terno": "2",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "163",
+      "dthr_inicio": "2013-04-06T18:47:36+0000",
+      "dthr_previsao_fim": "2016-01-06T02:02:47+0000",
+      "cd_terno": "4",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "164",
+      "dthr_inicio": "1983-12-26T11:12:12+0000",
+      "dthr_previsao_fim": "1976-04-18T13:01:52+0000",
+      "cd_terno": "8",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "165",
+      "dthr_inicio": "1975-08-17T21:48:52+0000",
+      "dthr_previsao_fim": "2007-12-17T04:35:17+0000",
+      "cd_terno": "7",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "166",
+      "dthr_inicio": "2001-06-20T11:09:06+0000",
+      "dthr_previsao_fim": "1986-11-03T16:58:26+0000",
+      "cd_terno": "3",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "169",
+      "dthr_inicio": "1983-05-23T13:43:51+0000",
+      "dthr_previsao_fim": "2001-08-18T11:26:10+0000",
+      "cd_terno": "9",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "175",
+      "dthr_inicio": "1985-08-06T07:09:40+0000",
+      "dthr_previsao_fim": "2013-10-31T14:53:59+0000",
+      "cd_terno": "9",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "176",
+      "dthr_inicio": "1997-10-10T03:50:26+0000",
+      "dthr_previsao_fim": "1992-05-07T17:11:22+0000",
+      "cd_terno": "4",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "177",
+      "dthr_inicio": "1992-04-21T22:24:09+0000",
+      "dthr_previsao_fim": "1994-05-03T23:55:24+0000",
+      "cd_terno": "3",
+      "op_status": "0"
+    },
+    {
+      "cd_operacao": "185",
+      "dthr_inicio": "2006-12-31T09:23:29+0000",
+      "dthr_previsao_fim": "1987-06-23T11:29:45+0000",
+      "cd_terno": "9",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "186",
+      "dthr_inicio": "2007-06-10T20:29:01+0000",
+      "dthr_previsao_fim": "1977-10-13T21:24:43+0000",
+      "cd_terno": "7",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "187",
+      "dthr_inicio": "2004-09-07T23:32:00+0000",
+      "dthr_previsao_fim": "1979-06-25T11:05:36+0000",
+      "cd_terno": "8",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "188",
+      "dthr_inicio": "1972-01-31T01:53:00+0000",
+      "dthr_previsao_fim": "1982-05-21T04:12:53+0000",
+      "cd_terno": "4",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "190",
+      "dthr_inicio": "2007-02-07T11:25:42+0000",
+      "dthr_previsao_fim": "1997-12-19T17:22:30+0000",
+      "cd_terno": "4",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "191",
+      "dthr_inicio": "1989-06-21T13:24:57+0000",
+      "dthr_previsao_fim": "1986-05-07T09:13:57+0000",
+      "cd_terno": "4",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "193",
+      "dthr_inicio": "1991-08-13T11:45:37+0000",
+      "dthr_previsao_fim": "2014-10-10T04:45:25+0000",
+      "cd_terno": "6",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "194",
+      "dthr_inicio": "1989-05-20T05:41:40+0000",
+      "dthr_previsao_fim": "1972-07-12T07:30:26+0000",
+      "cd_terno": "2",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "196",
+      "dthr_inicio": "2012-03-07T20:54:22+0000",
+      "dthr_previsao_fim": "1989-05-15T23:18:54+0000",
+      "cd_terno": "9",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "197",
+      "dthr_inicio": "2008-04-24T00:45:52+0000",
+      "dthr_previsao_fim": "2005-07-16T12:22:10+0000",
+      "cd_terno": "5",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "199",
+      "dthr_inicio": "2015-03-13T15:25:01+0000",
+      "dthr_previsao_fim": "2007-01-15T19:57:32+0000",
+      "cd_terno": "6",
+      "op_status": "1"
+    },
+    {
+      "cd_operacao": "200",
+      "dthr_inicio": "1976-08-19T04:28:39+0000",
+      "dthr_previsao_fim": "1993-10-17T12:36:36+0000",
+      "cd_terno": "4",
+      "op_status": "1"
+    }
+  ],
+  "operacao_status": [
+    {
+      "cd_status": "1",
+      "id_status": "1",
+      "desc_status": "qui",
+      "desc_razao": "Qui suscipit autem nisi vitae vel non."
+    },
+    {
+      "cd_status": "2",
+      "id_status": "1",
+      "desc_status": "earum",
+      "desc_razao": "Vero et soluta nisi consequatur voluptas."
+    },
+    {
+      "cd_status": "3",
+      "id_status": "0",
+      "desc_status": "et",
+      "desc_razao": "Nostrum vero id voluptatum sit maiores est nisi."
+    },
+    {
+      "cd_status": "4",
+      "id_status": "0",
+      "desc_status": "fugit",
+      "desc_razao": "Maxime libero aliquid quia culpa nihil."
+    },
+    {
+      "cd_status": "5",
+      "id_status": "0",
+      "desc_status": "esse",
+      "desc_razao": "Ratione voluptas sed alias alias aliquid."
+    },
+    {
+      "cd_status": "6",
+      "id_status": "0",
+      "desc_status": "consequuntur",
+      "desc_razao": "Vitae rerum fugiat est aut."
+    },
+    {
+      "cd_status": "7",
+      "id_status": "0",
+      "desc_status": "a",
+      "desc_razao": "Officia beatae cumque consequatur aut itaque."
+    },
+    {
+      "cd_status": "8",
+      "id_status": "0",
+      "desc_status": "sunt",
+      "desc_razao": "Repudiandae deleniti reiciendis veritatis laborum."
+    },
+    {
+      "cd_status": "9",
+      "id_status": "0",
+      "desc_status": "corrupti",
+      "desc_razao": "Impedit dolore et minus dolor ut voluptate."
+    },
+    {
+      "cd_status": "10",
+      "id_status": "1",
+      "desc_status": "expedita",
+      "desc_razao": "Non placeat illo in ut earum voluptas dicta."
+    },
+    {
+      "cd_status": "11",
+      "id_status": "1",
+      "desc_status": "quo",
+      "desc_razao": "Aut ducimus dolorem saepe impedit suscipit ipsa nostrum."
+    },
+    {
+      "cd_status": "12",
+      "id_status": "1",
+      "desc_status": "dolorem",
+      "desc_razao": "Qui possimus expedita odit facere ea."
+    },
+    {
+      "cd_status": "13",
+      "id_status": "0",
+      "desc_status": "doloribus",
+      "desc_razao": "Est est adipisci temporibus repellat amet dolorem ut."
+    },
+    {
+      "cd_status": "14",
+      "id_status": "1",
+      "desc_status": "dolorem",
+      "desc_razao": "Dolorum distinctio quo quo."
+    },
+    {
+      "cd_status": "15",
+      "id_status": "0",
+      "desc_status": "iusto",
+      "desc_razao": "Impedit doloremque et perspiciatis."
+    },
+    {
+      "cd_status": "16",
+      "id_status": "1",
+      "desc_status": "dolorem",
+      "desc_razao": "Similique dolor est voluptatem cumque."
+    },
+    {
+      "cd_status": "17",
+      "id_status": "1",
+      "desc_status": "sint",
+      "desc_razao": "Similique ut quas impedit et et."
+    },
+    {
+      "cd_status": "18",
+      "id_status": "0",
+      "desc_status": "ea",
+      "desc_razao": "Et praesentium maiores atque natus ut."
+    },
+    {
+      "cd_status": "19",
+      "id_status": "0",
+      "desc_status": "ut",
+      "desc_razao": "Sit veritatis dolores porro dolore et ratione eius recusandae."
+    },
+    {
+      "cd_status": "20",
+      "id_status": "1",
+      "desc_status": "sit",
+      "desc_razao": "Nobis animi accusantium ipsa et voluptatem dolor quo."
+    },
+    {
+      "cd_status": "21",
+      "id_status": "1",
+      "desc_status": "odit",
+      "desc_razao": "Animi ipsum quas laudantium beatae."
+    },
+    {
+      "cd_status": "22",
+      "id_status": "1",
+      "desc_status": "et",
+      "desc_razao": "Nostrum animi placeat quia esse."
+    },
+    {
+      "cd_status": "23",
+      "id_status": "1",
+      "desc_status": "odio",
+      "desc_razao": "Est tempore vel beatae maiores rerum."
+    },
+    {
+      "cd_status": "24",
+      "id_status": "0",
+      "desc_status": "distinctio",
+      "desc_razao": "Voluptatem iusto iste quia quia esse eaque."
+    },
+    {
+      "cd_status": "25",
+      "id_status": "0",
+      "desc_status": "quod",
+      "desc_razao": "Numquam debitis porro eveniet explicabo aut."
+    },
+    {
+      "cd_status": "26",
+      "id_status": "0",
+      "desc_status": "et",
+      "desc_razao": "In distinctio eum aliquid architecto et sint."
+    },
+    {
+      "cd_status": "27",
+      "id_status": "1",
+      "desc_status": "doloribus",
+      "desc_razao": "Consectetur aut eos libero."
+    },
+    {
+      "cd_status": "28",
+      "id_status": "1",
+      "desc_status": "et",
+      "desc_razao": "Officiis et dolores sed laboriosam hic totam et."
+    },
+    {
+      "cd_status": "29",
+      "id_status": "1",
+      "desc_status": "sint",
+      "desc_razao": "Nostrum eum exercitationem enim."
+    },
+    {
+      "cd_status": "30",
+      "id_status": "0",
+      "desc_status": "magni",
+      "desc_razao": "Quidem occaecati occaecati culpa adipisci ab."
+    },
+    {
+      "cd_status": "31",
+      "id_status": "1",
+      "desc_status": "sed",
+      "desc_razao": "Corrupti at veritatis libero."
+    },
+    {
+      "cd_status": "32",
+      "id_status": "1",
+      "desc_status": "et",
+      "desc_razao": "Aut quasi tempore est ipsam nesciunt."
+    },
+    {
+      "cd_status": "33",
+      "id_status": "1",
+      "desc_status": "voluptatem",
+      "desc_razao": "Similique dolores aut et odit eum libero."
+    },
+    {
+      "cd_status": "34",
+      "id_status": "0",
+      "desc_status": "sequi",
+      "desc_razao": "Nihil eveniet ea veniam perspiciatis exercitationem laudantium eaque inventore."
+    },
+    {
+      "cd_status": "35",
+      "id_status": "0",
+      "desc_status": "nulla",
+      "desc_razao": "At quia consequatur corrupti accusantium aliquam aut aliquid."
+    },
+    {
+      "cd_status": "36",
+      "id_status": "0",
+      "desc_status": "eum",
+      "desc_razao": "Voluptatem rerum omnis amet nisi est tempora aut excepturi."
+    },
+    {
+      "cd_status": "37",
+      "id_status": "0",
+      "desc_status": "qui",
+      "desc_razao": "Eaque eum vero consequuntur explicabo architecto animi."
+    },
+    {
+      "cd_status": "38",
+      "id_status": "0",
+      "desc_status": "autem",
+      "desc_razao": "Quidem maxime recusandae et atque quae minima veritatis."
+    },
+    {
+      "cd_status": "39",
+      "id_status": "1",
+      "desc_status": "ea",
+      "desc_razao": "Doloribus et et aut expedita perferendis."
+    },
+    {
+      "cd_status": "40",
+      "id_status": "0",
+      "desc_status": "reiciendis",
+      "desc_razao": "At molestiae ipsa aperiam atque incidunt animi."
+    },
+    {
+      "cd_status": "41",
+      "id_status": "0",
+      "desc_status": "velit",
+      "desc_razao": "Sequi perspiciatis sint sit debitis et quibusdam."
+    },
+    {
+      "cd_status": "42",
+      "id_status": "1",
+      "desc_status": "voluptatem",
+      "desc_razao": "Quia enim voluptatem amet quaerat."
+    },
+    {
+      "cd_status": "43",
+      "id_status": "0",
+      "desc_status": "explicabo",
+      "desc_razao": "Quod nihil pariatur veritatis et nostrum aliquam repudiandae."
+    },
+    {
+      "cd_status": "44",
+      "id_status": "1",
+      "desc_status": "ratione",
+      "desc_razao": "Nisi eius rerum quibusdam est et voluptatibus sit hic."
+    },
+    {
+      "cd_status": "45",
+      "id_status": "0",
+      "desc_status": "voluptatem",
+      "desc_razao": "Enim labore exercitationem qui ullam adipisci inventore."
+    },
+    {
+      "cd_status": "46",
+      "id_status": "1",
+      "desc_status": "officia",
+      "desc_razao": "Reiciendis vitae corrupti et veritatis animi quis."
+    },
+    {
+      "cd_status": "47",
+      "id_status": "1",
+      "desc_status": "unde",
+      "desc_razao": "Ab sint est illum totam alias eaque."
+    },
+    {
+      "cd_status": "48",
+      "id_status": "0",
+      "desc_status": "a",
+      "desc_razao": "Sint modi id veniam voluptatem voluptas quae nulla."
+    },
+    {
+      "cd_status": "49",
+      "id_status": "1",
+      "desc_status": "et",
+      "desc_razao": "Qui quod earum et qui aut amet dolores."
+    },
+    {
+      "cd_status": "50",
+      "id_status": "1",
+      "desc_status": "aut",
+      "desc_razao": "Debitis quia molestiae itaque laborum ea tempora at necessitatibus."
+    }
+  ],
+  "tb_horario": [
+    {
+      "horario": "6",
+      "escala": "240",
+      "jornada_escala": "5x1",
+      "faixa_inicio": "13:00:00",
+      "faixa_fim": "19:20:00"
+    },
+    {
+      "horario": "12",
+      "escala": "240",
+      "jornada_escala": "5x1",
+      "faixa_inicio": "07:00:00",
+      "faixa_fim": "13:20:00"
+    },
+    {
+      "horario": "14",
+      "escala": "240",
+      "jornada_escala": "5x1",
+      "faixa_inicio": "19:00:00",
+      "faixa_fim": "01:20:00"
+    },
+    {
+      "horario": "15",
+      "escala": "224",
+      "jornada_escala": "6x2",
+      "faixa_inicio": "07:00:00",
+      "faixa_fim": "15:20:00"
+    },
+    {
+      "horario": "16",
+      "escala": "224",
+      "jornada_escala": "6x2",
+      "faixa_inicio": "15:00:00",
+      "faixa_fim": "23:20:00"
+    },
+    {
+      "horario": "17",
+      "escala": "224",
+      "jornada_escala": "6x2",
+      "faixa_inicio": "23:00:00",
+      "faixa_fim": "07:20:00"
+    },
+    {
+      "horario": "18",
+      "escala": "240",
+      "jornada_escala": "5x1",
+      "faixa_inicio": "01:00:00",
+      "faixa_fim": "07:20:00"
+    }
+  ],
+  "terno": [
+    {
+      "cd_terno": "1",
+      "registro_funcionarios": "7"
+    },
+    {
+      "cd_terno": "2",
+      "registro_funcionarios": "6"
+    },
+    {
+      "cd_terno": "3",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "4",
+      "registro_funcionarios": "9"
+    },
+    {
+      "cd_terno": "5",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "6",
+      "registro_funcionarios": "3"
+    },
+    {
+      "cd_terno": "7",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "8",
+      "registro_funcionarios": ""
+    },
+    {
+      "cd_terno": "9",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "10",
+      "registro_funcionarios": "6"
+    },
+    {
+      "cd_terno": "11",
+      "registro_funcionarios": "5"
+    },
+    {
+      "cd_terno": "12",
+      "registro_funcionarios": "7"
+    },
+    {
+      "cd_terno": "13",
+      "registro_funcionarios": "7"
+    },
+    {
+      "cd_terno": "14",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "15",
+      "registro_funcionarios": "5"
+    },
+    {
+      "cd_terno": "16",
+      "registro_funcionarios": "9"
+    },
+    {
+      "cd_terno": "17",
+      "registro_funcionarios": "1"
+    },
+    {
+      "cd_terno": "18",
+      "registro_funcionarios": "7"
+    },
+    {
+      "cd_terno": "19",
+      "registro_funcionarios": "4"
+    },
+    {
+      "cd_terno": "20",
+      "registro_funcionarios": "4"
+    },
+    {
+      "cd_terno": "21",
+      "registro_funcionarios": ""
+    },
+    {
+      "cd_terno": "22",
+      "registro_funcionarios": "8"
+    },
+    {
+      "cd_terno": "23",
+      "registro_funcionarios": ""
+    },
+    {
+      "cd_terno": "24",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "25",
+      "registro_funcionarios": "7"
+    },
+    {
+      "cd_terno": "26",
+      "registro_funcionarios": "6"
+    },
+    {
+      "cd_terno": "27",
+      "registro_funcionarios": "9"
+    },
+    {
+      "cd_terno": "28",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "29",
+      "registro_funcionarios": "1"
+    },
+    {
+      "cd_terno": "30",
+      "registro_funcionarios": "7"
+    },
+    {
+      "cd_terno": "31",
+      "registro_funcionarios": "6"
+    },
+    {
+      "cd_terno": "32",
+      "registro_funcionarios": "7"
+    },
+    {
+      "cd_terno": "33",
+      "registro_funcionarios": "5"
+    },
+    {
+      "cd_terno": "34",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "35",
+      "registro_funcionarios": "6"
+    },
+    {
+      "cd_terno": "36",
+      "registro_funcionarios": "5"
+    },
+    {
+      "cd_terno": "37",
+      "registro_funcionarios": "3"
+    },
+    {
+      "cd_terno": "38",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "39",
+      "registro_funcionarios": "8"
+    },
+    {
+      "cd_terno": "40",
+      "registro_funcionarios": ""
+    },
+    {
+      "cd_terno": "41",
+      "registro_funcionarios": "9"
+    },
+    {
+      "cd_terno": "42",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "43",
+      "registro_funcionarios": "8"
+    },
+    {
+      "cd_terno": "44",
+      "registro_funcionarios": ""
+    },
+    {
+      "cd_terno": "45",
+      "registro_funcionarios": "3"
+    },
+    {
+      "cd_terno": "46",
+      "registro_funcionarios": "6"
+    },
+    {
+      "cd_terno": "47",
+      "registro_funcionarios": "2"
+    },
+    {
+      "cd_terno": "48",
+      "registro_funcionarios": "6"
+    },
+    {
+      "cd_terno": "49",
+      "registro_funcionarios": "5"
+    },
+    {
+      "cd_terno": "50",
+      "registro_funcionarios": "9"
+    }
+  ]
+}

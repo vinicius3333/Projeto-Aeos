@@ -1,0 +1,154 @@
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.navbar-fixed{
+  z-index: 998 !important;
+}
+
+.mainbox{
+  background-image: 'okne.jpeg';
+}
+
+.nav-wrapper{
+z-index:999 !important;
+background: #2196f3;
+}
+
+.page-footer {
+  background: #2196f3;
+}
+
+.sidenav{
+  width: 260px !important;
+}
+.sidenav-fixed{
+  z-index: 994 !important;  
+}
+
+.first-li{
+  margin-top:80px;
+}
+
+.box{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  background-color:#efefef;
+  padding: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.box:hover{
+  background-color: #d3d3d3;
+  transition: 0.2s ease;
+  cursor: pointer;
+}
+
+
+.left-panel{
+  position: fixed;
+}
+
+.left-panel li>a{
+    color: rgba(0,0,0,0.87);
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    height: 48px;
+    line-height: 48px;
+    padding: 0 32px;
+    width: 100%;
+}
+
+.left-panel li>a:hover{
+  background-color: #efefef;
+  transition: 0.2 ease;
+
+  }
+
+  .container{
+    margin-left: 300px !important;
+  }
+
+  .montserrat{
+  font-family: 'Montserrat', sans-serif;
+  }
+
+.image{
+    margin-top: -25px;
+    transition: 0.4s ease;
+}
+
+.image:hover {
+ -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+  transition: 0.4s ease;
+   ;
+}
+
+.main{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.overlay{
+  background: black;
+}
+
+
+.centered {
+  text-align: center;
+  position: absolute;
+  top: 60%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+}
+
+
+.centered a{
+  padding: 15px;
+  border-radius:35px;
+  border: 3px solid #ffffff;
+  text-decoration: none;
+  color: #ffffff !important;
+  font-weight: 300px;
+  background-color: transparent;
+  font-size:1.5em;
+}
+
+.centered a:hover{
+  background-color: #ffffff;
+  color:black !important;
+  transition: 0.2s;
+}
+
+.centered h2{
+  color: #ffffff !important;
+  font-weight: 300px;
+}
+
+.card-action a{
+  color: white !important;
+}
+
+.card-action a:hover{
+  color: #cac9c9 !important;
+}
+
+.n-li:hover{
+  cursor: pointer;
+}
+
+.first-li:hover{
+  cursor: pointer;
+}
